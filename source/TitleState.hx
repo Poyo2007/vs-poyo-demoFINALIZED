@@ -287,7 +287,7 @@ class TitleState extends MusicBeatState
 
     var bfmoment:FlxSprite = new FlxSprite(0,0);
     bfmoment.loadGraphic(Paths.image("boyfriendlmao", "preload"));
-    bfmoment.screenCenter()
+    bfmoment.screenCenter();
     
     var greenhill:FlxBackdrop = new FlxBackdrop(Paths.image("greenhillbg", "preload"), 2, 0, true, false);
 
