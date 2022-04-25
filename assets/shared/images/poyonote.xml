@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+	<!-- Created with Free Tex Packer
+	Generator by Poyo!!-->
+	<SubTexture name="blue0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="green0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="red0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="purple0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="left confirm0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="down confirm0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="up confirm0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="right confirm0000" x="0" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="arrowLEFT0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="arrowDOWN0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="arrowUP0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="arrowRIGHT0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+  <SubTexture name="left press0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="down press0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="up press0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+	<SubTexture name="right press0000" x="156" y="0" width="156" height="154" frameX="0" frameY="0" frameWidth="156" frameHeight="154"/>
+</TextureAtlas>
+

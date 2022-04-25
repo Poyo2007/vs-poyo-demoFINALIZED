@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="syobon-assets">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="S_Down001" x="0" y="0" width="20" height="31"/>
+	<SubTexture name="S_Down002" x="20" y="0" width="20" height="31"/>
+	<SubTexture name="S_Idle001" x="40" y="0" width="27" height="34"/>
+	<SubTexture name="S_Idle001 copy" x="40" y="0" width="27" height="34"/>
+	<SubTexture name="S_Idle002" x="67" y="0" width="27" height="34"/>
+	<SubTexture name="S_Idle003" x="94" y="0" width="27" height="34"/>
+	<SubTexture name="S_Left001" x="0" y="34" width="22" height="34"/>
+	<SubTexture name="S_Left002" x="22" y="34" width="22" height="34"/>
+	<SubTexture name="S_Right001" x="44" y="34" width="25" height="34"/>
+	<SubTexture name="S_Right002" x="69" y="34" width="25" height="34"/>
+	<SubTexture name="S_Up001" x="94" y="34" width="28" height="36"/>
+	<SubTexture name="S_Up002" x="0" y="70" width="28" height="36"/>
+</TextureAtlas>
